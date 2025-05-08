@@ -1,0 +1,3 @@
+/**
+ * Single product route page
+ */
